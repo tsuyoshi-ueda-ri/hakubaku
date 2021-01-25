@@ -1,0 +1,10 @@
+body, button, input, option, select, textarea {
+  font-size: 17px;
+  line-height: 1.4;
+  box-sizing: border-box;
+  color: #212121;
+}
+
+body *, body :after, body :before, button *, button :after, button :before, input *, input :after, input :before, option *, option :after, option :before, select *, select :after, select :before, textarea *, textarea :after, textarea :before {
+  box-sizing: border-box;
+}
